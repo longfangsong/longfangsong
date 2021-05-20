@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 [![longfangsong's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=longfangsong)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-profile-trophy.vercel.app/?username=longfangsong&column=4&theme=nord&margin-w=15&margin-h=15">
