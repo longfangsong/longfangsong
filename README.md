@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [TiKV's](https://github.com/tikv/tikv/) transaction system.
 - 🌱 I’m currently learning Rust & distributed system & TLA+ & almost everything about CES
+- 🧩 Famous repositories I contributed to: [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer), [TiDB](https://github.com/pingcap/tidb), [TiKV](https://github.com/tikv/tikv/)
 - 📫 How to reach me: longfangsong@icloud.com
 <!-- 👯 I’m looking to collaborate on ...
 🤔 I’m looking for help with ...
