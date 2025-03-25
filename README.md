@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 ![longfangsong's github stats](https://github-readme-stats.vercel.app/api?username=longfangsong&show_icons=true&theme=dracula&hide_title=true&count_private=true)
 
-[![longfangsong's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=longfangsong)](https://github.com/anuraghazra/github-readme-stats)
-
 <img src="https://github-profile-trophy.vercel.app/?username=longfangsong&column=4&theme=nord&margin-w=15&margin-h=15">
 
 <img
