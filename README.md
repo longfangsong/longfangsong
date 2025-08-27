@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently studying for a master's degree in [Chalmers tekniska högskola](https://www.chalmers.se/).
-- 🌱 I’m currently learning Category theory & type theory (especially HoTT) & Agda & Compiler & almost everything about CES & EE.
+- 🔭 I’m currently applying for a PhD position in [Chalmers tekniska högskola](https://www.chalmers.se/).
+- 🌱 I’m currently learning Formal methods & Category theory & type theory (especially HoTT) & Agda & Compiler & almost everything about CES & EE.
 - 🧩 Famous repositories I contributed to: [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer), [TiDB](https://github.com/pingcap/tidb), [TiKV](https://github.com/tikv/tikv/)
 - 📫 How to reach me: longfangsong@icloud.com
 - ✒️ Please do view my [Blog](https://longfangsong.github.io/en)!
@@ -20,8 +20,3 @@ Here are some ideas to get you started:
 
 ![longfangsong's github stats](https://github-readme-stats.vercel.app/api?username=longfangsong&show_icons=true&theme=dracula&hide_title=true&count_private=true)
 
-<img src="https://github-profile-trophy.vercel.app/?username=longfangsong&column=4&theme=nord&margin-w=15&margin-h=15">
-
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=longfangsong&skills=JavaScript,TypeScript,C,C%2B%2B,Rust,Go,CSS,Python,Scala,HTML&show-other-skills=true"
-/>
