@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently applying for a PhD position in [Chalmers tekniska högskola](https://www.chalmers.se/).
+- 🔭 I’m currently looking for a job in Sweden.
 - 🌱 I’m currently learning Formal methods & Category theory & type theory (especially HoTT) & Agda & Compiler & almost everything about CES & EE.
 - 🧩 Famous repositories I contributed to: [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer), [TiDB](https://github.com/pingcap/tidb), [TiKV](https://github.com/tikv/tikv/)
 - 📫 How to reach me: longfangsong@icloud.com
