@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently looking for a job in Sweden.
+- 🔭 I’m currently working at [@CELLINKAB](https://github.com/CELLINKAB), with account [@fangsong-cellink](https://github.com/fangsong-cellink), baking both Linux and cakes.
 - 🌱 I’m currently learning Formal methods & Category theory & type theory (especially HoTT) & Agda & Compiler & almost everything about CES & EE.
 - 🧩 Famous repositories I contributed to: [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer), [TiDB](https://github.com/pingcap/tidb), [TiKV](https://github.com/tikv/tikv/)
 - 📫 How to reach me: longfangsong@icloud.com
@@ -17,6 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![longfangsong's github stats](https://github-readme-stats.vercel.app/api?username=longfangsong&show_icons=true&theme=dracula&hide_title=true&count_private=true)
-
